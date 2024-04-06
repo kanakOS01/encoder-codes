@@ -1,33 +1,3 @@
-dic = {
-    'a': 87,
-    'b': 23,
-    'c': 45,
-    'd': 12,
-    'e': 68,
-    'f': 95,
-    'g': 34,
-    'h': 71,
-    'i': 56,
-    'j': 25,
-    'k': 77,
-    'l': 63,
-    'm': 42,
-    'n': 88,
-    'o': 15,
-    'p': 51,
-    'q': 19,
-    'r': 73,
-    's': 39,
-    't': 84,
-    'u': 49,
-    'v': 28,
-    'w': 93,
-    'x': 61,
-    'y': 32,
-    'z': 79,
-    '#': 1
-}
-
 def yeh_karta_hai_string_ko_decode__________________(input_string, yeh_hai_ek_phool_phool_ki_khusbhoo_hoti_hai_achiiii______________):
     decoded_string = ""
     for char in input_string:

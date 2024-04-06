@@ -5,19 +5,6 @@
 
 std::unordered_map<int, char> reverse_dic;
 
-void initialize_reverse_dic() {
-    for (const auto& pair : dic) {
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-        reverse_dic[pair.second] = pair.first;
-    }
-}
 
 std::string string_encoder(const std::string& input_string, const std::unordered_map<char, int>& char_to_num_dict) {
     std::string decoded_string_capital_________________________________________________________;
